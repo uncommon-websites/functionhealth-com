@@ -38,6 +38,14 @@
 	--color-secondary-900: oklch(30% 0.1 30);
 	--color-secondary-950: oklch(20% 0.11 30);
 
-	--font-body: var(--font-family), var(--font-fallback);
-	--font-display: var(--font-body);
+	--font-sans: "DM Sans", sans-serif;
+	--font-serif: "DM Serif Display", serif;
+	--font-display: "DM Serif Display", serif;
+	--font-body: "DM Sans", sans-serif;
+
+	--color-brand-orange: #ce6f46;
+	--color-brand-cream: #fdfbf7;
+	--color-brand-beige: #f5f2eb;
+	--color-brand-dark: #1a1a1a;
+	--color-brand-gray: #666666;
 }
